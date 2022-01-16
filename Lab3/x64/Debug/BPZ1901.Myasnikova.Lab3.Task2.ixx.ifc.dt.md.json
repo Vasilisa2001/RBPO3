@@ -1,0 +1,11 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\hp\\downloads\\rbpo_lab3-main\\lab3\\bpz1901.myasnikova.lab3.task2.ixx",
+        "ProvidedModule": "BPZ1901.Myasnikova.Lab3.Task2",
+        "ImportedModules": [],
+        "ImportedHeaderUnits": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\cmath"
+        ]
+    }
+}
